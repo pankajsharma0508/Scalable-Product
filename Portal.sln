@@ -6,7 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{78CFC0BF-A098-4161-852A-ED8FEB264DBE}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
-		Deployment.yaml = Deployment.yaml
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Product", "Product\Product.csproj", "{4BB85281-2378-4792-9477-52133D2A1568}"
