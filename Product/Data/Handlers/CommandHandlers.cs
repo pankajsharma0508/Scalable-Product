@@ -54,7 +54,7 @@ namespace Product.Data.Handlers
     {
         protected MongoDbContext GetDBContext()
         {
-            var connectionString = "mongodb+srv://pankMongo:Mongo123@pankcluster0.jwx8zze.mongodb.net/?retryWrites=true&w=majority";
+            var connectionString = "mongodb+srv://yashveersingh83:Ruchi%4001664265237@yashmongocluster.whtjz12.mongodb.net/?retryWrites=true&w=majority&appName=YashMongoCluster";
             if (connectionString == null)
             {
                 Console.WriteLine("You must set your 'DB_URL' environment variable. ");

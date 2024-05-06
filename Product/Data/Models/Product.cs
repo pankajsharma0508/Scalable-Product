@@ -9,5 +9,11 @@ namespace Product.Data.Models
         public string ProductId => this.Id.ToString();
 
         public string Name { get; set; }
+
+        public string Description { get; set; }
+
+        public int AvailableQuantity {  get; set; }
+
+        public decimal Price { get; set; }
     }
 }
